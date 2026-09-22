@@ -8,7 +8,7 @@ A simple Java console application that asks for a student's marks in 5 subjects,
 2. Namanya Nawal  25/u/15459/EVE
 3. Ssegawa Kelvin Victor 25/u/15648/PS
 4. Ssekanjako Melvin     25/u/15655/EVE
-5. Asiimwe Audrey        25/u/14944
+5. Asiimwe Audrey        25/u/14944/PS
 
 
 ## What the Program Does
